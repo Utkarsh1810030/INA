@@ -1,6 +1,6 @@
 {
     "#include":"./common.cjson",
     "openai":{
-        "apiKey" : "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"
+        "apiKey" : ""
     }
 }
